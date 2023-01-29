@@ -1,0 +1,28 @@
+.notfound-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  padding: 30px;
+}
+
+.n-image {
+  height: 400px;
+  width: 400px;
+}
+
+.n-heading {
+  font-family: 'Roboto';
+  font-size: 30px;
+  font-weight: 600;
+  color: #475569;
+  margin-bottom: 5px;
+}
+
+.n-para {
+  font-family: 'Roboto';
+  font-size: 18px;
+  font-weight: 300;
+  color: #64748b;
+}
